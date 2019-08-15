@@ -1,0 +1,51 @@
+//ITEMS
+item.scplogo.name=SCP Logo
+
+//BLOCKS
+//Office Blocks
+tile.purple_office_bottom.name=Purple Office Bottom
+tile.purple_office_line.name=Purple Office Line
+tile.purple_office_top.name=Purple Office Top
+tile.blue_office_bottom.name=Blue Office Bottom
+tile.blue_office_line.name=Blue Office Line
+tile.blue_office_top.name=Blue Office Top
+tile.gray_office_bottom.name=Gray Office Bottom
+tile.gray_office_line.name=Gray Office Line
+tile.gray_office_top.name=Gray Office Top
+tile.light_blue_office_top.name=Light Blue Office Top
+tile.light_blue_office_line.name=Light Blue Office Line
+tile.light_blue_office_bottom.name=Light Blue Office Bottom
+tile.red_office_top.name=Red Office Top
+tile.red_office_line.name=Red Office Line
+tile.red_office_bottom.name=Red Office Bottom
+tile.black_office_top.name=Black Office Top
+tile.black_office_line.name=Black Office Line
+tile.black_office_bottom.name=Black Office Bottom
+tile.yellow_office_top.name=Yellow Office Top
+tile.yellow_office_line.name=Yellow Office Line
+tile.yellow_office_bottom.name=Yellow Office Bottom
+tile.green_office_top.name=Green Office Top
+tile.green_office_line.name=Green Office Line
+tile.green_office_bottom.name=Green Office Bottom
+tile.dark_green_office_top.name=Dark Green Office Top
+tile.dark_green_office_line.name=Dark Green Office Line
+tile.dark_green_office_bottom.name=Dark Green Office Bottom
+//WC Blocks
+tile.wc_block.name=WC Block
+tile.male_wc_block.name=Male WC Block
+tile.female_wc_block.name=Female WC Block
+//GOI Blocks
+tile.sh_block.name=Serpant's Hand Block
+tile.ci_block.name=Chaos Insurgency Block
+
+tile.tesla_gate.name=Tesla Gate
+
+
+
+//TABS
+itemGroup.site58tab=Site 58
+
+//LEVER
+tile.scplever.name=SCP Lever
+
+//ENTITIES

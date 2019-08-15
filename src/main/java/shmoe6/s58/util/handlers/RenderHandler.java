@@ -1,4 +1,4 @@
-	package shmoe6.s58.util.handlers;
+package shmoe6.s58.util.handlers;
 
 import net.minecraft.client.renderer.entity.Render;
 import net.minecraft.client.renderer.entity.RenderManager;

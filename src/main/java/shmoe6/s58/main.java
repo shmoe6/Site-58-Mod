@@ -27,7 +27,7 @@ public class main
     @EventHandler
     public static void preInit(FMLPreInitializationEvent event) 
     {
-    	
+    	RegistryHandler.preInitRegistries();
     }
     
     @EventHandler

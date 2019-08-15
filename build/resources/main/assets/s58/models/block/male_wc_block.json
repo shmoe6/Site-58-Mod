@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+        "particle": "s58:blocks/wall",
+        "up": "s58:blocks/wall",
+        "down": "s58:blocks/wall",
+        "north": "s58:blocks/male_wc_block",
+        "east": "s58:blocks/male_wc_block",
+        "south": "s58:blocks/male_wc_block",
+        "west": "s58:blocks/male_wc_block"
+   }
+}

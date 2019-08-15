@@ -1,0 +1,442 @@
+{
+    "alphawarheads": 
+    {
+        "catagory": "master",
+        "subtitle": "alphawarheads",
+        "sounds": [{ "name": "s58:alphawarheads", "stream": true}]
+    },
+    
+    "ambience012":
+    {
+        "catagory": "master",
+        "subtitle": "ambience012",
+        "sounds": [{ "name": "s58:ambience012", "stream": true}]
+    },
+    
+    "announcement1": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement1",
+        "sounds": [{ "name": "s58:announcement1", "stream": true}]
+    },
+    
+    "announcement2": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement2",
+        "sounds": [{ "name": "s58:announcement2", "stream": true}]
+    },
+    
+    "announcement3": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement3",
+        "sounds": [{ "name": "s58:announcement3", "stream": true}]
+    },
+    
+    "announcement4": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement4",
+        "sounds": [{ "name": "s58:announcement4", "stream": true}]
+    },
+    
+    "announcement5": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement5",
+        "sounds": [{ "name": "s58:announcement5", "stream": true}]
+    },
+    
+    "announcement6": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement6",
+        "sounds": [{ "name": "s58:announcement6", "stream": true}]
+    },
+    
+    "announcement7": 
+    {
+        "catagory": "master",
+        "subtitle": "announcement7",
+        "sounds": [{ "name": "s58:announcement7", "stream": true}]
+    },
+    
+    "blackmesa":
+    {
+        "catagory": "master",
+        "subtitle": "blackmesa",
+        "sounds": [{ "name": "s58:blackmesa", "stream": true}]
+    },
+    
+    "bluefeather":
+    {
+        "catagory": "record",
+        "subtitle": "bluefeather",
+        "sounds": [{ "name": "s58:bluefeather", "stream": true}]
+    },
+    
+    "bumpinthenight":
+    {
+        "catagory": "record",
+        "subtitle": "bumpinthenight",
+        "sounds": [{ "name": "s58:bumpinthenight", "stream": true}]
+    },
+    
+    "checkpointopen": 
+    {
+        "catagory": "master",
+        "subtitle": "checkpointopen",
+        "sounds": [{ "name": "s58:checkpointopen", "stream": true}]
+    },
+    
+    "checkpointsiren": 
+    {
+        "catagory": "master",
+        "subtitle": "checkpointsiren",
+        "sounds": [{ "name": "s58:checkpointsiren", "stream": true}]
+    },
+    
+    "decontamination15min": 
+    {
+        "catagory": "master",
+        "subtitle": "decontamination15min",
+        "sounds": [{ "name": "s58:decontamination15min", "stream": true}]
+    },
+      
+    "decontamination5min": 
+    {
+        "catagory": "master",
+        "subtitle": "decontamination5min",
+        "sounds": [{ "name": "s58:decontamination5min", "stream": true}]
+    },
+    
+    "decontamination1min": 
+    {
+        "catagory": "master",
+        "subtitle": "decontamination1min",
+        "sounds": [{ "name": "s58:decontamination1min", "stream": true}]
+    },
+     
+    "decontamination30sec": 
+    {
+        "catagory": "master",
+        "subtitle": "decontamination30sec",
+        "sounds": [{ "name": "s58:decontamination30sec", "stream": true}]
+    },
+     
+    "decontaminationbegun": 
+    {
+        "catagory": "master",
+        "subtitle": "decontaminationbegun",
+        "sounds": [{ "name": "s58:decontaminationbegun", "stream": true}]
+    },
+    
+    "dialogue079":
+    {
+        "catagory": "master",
+        "subtitle": "dialogue079",
+        "sounds": [{ "name": "s58:dialogue079", "stream": true}]
+    },
+    
+    "die079":
+    {
+        "catagory": "master",
+        "subtitle": "die079",
+        "sounds": [{ "name": "s58:die079", "stream": true}]
+    },
+    
+    "elevatording": 
+    {
+        "catagory": "master",
+        "subtitle": "elevatording",
+        "sounds": [{ "name": "s58:elevatording", "stream": true}]
+    },
+    
+    "escape682":
+    {
+        "catagory": "master",
+        "subtitle": "escape682",
+        "sounds": [{ "name": "s58:escape682", "stream": true}]
+    },
+     
+    "femurbreaker":
+    {
+        "catagory": "master",
+        "subtitle": "femurbreaker",
+        "sounds": [{ "name": "s58:femurbreaker", "stream": true}]
+    },
+    
+    "finalflash":
+    {
+        "catagory": "record",
+        "subtitle": "finalflash",
+        "sounds": [{ "name": "s58:finalflash", "stream": true}]
+    },
+    
+    "franklin2":
+    {
+        "catagory": "master",
+        "subtitle": "franklin2",
+        "sounds": [{ "name": "s58:franklin2", "stream": true}]
+    },
+    
+    "franklin3":
+    {
+        "catagory": "master",
+        "subtitle": "franklin3",
+        "sounds": [{ "name": "s58:franklin3", "stream": true}]
+    },
+    
+    "franklin4":
+    {
+        "catagory": "master",
+        "subtitle": "franklin4",
+        "sounds": [{ "name": "s58:franklin4", "stream": true}]
+    },
+    
+    "gas035_2":
+    {
+        "catagory": "master",
+        "subtitle": "gas035_2",
+        "sounds": [{ "name": "s58:gas035_2", "stream": true}]
+    },
+    
+    "gas035":
+    {
+        "catagory": "master",
+        "subtitle": "gas035",
+        "sounds": [{ "name": "s58:gas035", "stream": true}]
+    },
+    
+    "gate079":
+    {
+        "catagory": "master",
+        "subtitle": "gate079",
+        "sounds": [{ "name": "s58:gate079", "stream": true}]
+    },
+    
+    "generalsiren":
+    {
+        "catagory": "master",
+        "subtitle": "generalsiren",
+        "sounds": [{ "name": "s58:generalsiren", "stream": true}]
+    },
+    
+    "golgotha":
+    {
+        "catagory": "record",
+        "subtitle": "golgotha",
+        "sounds": [{ "name": "s58:golgotha", "stream": true}]
+    },
+    
+    "guard096_2":
+    {
+        "catagory": "master",
+        "subtitle": "guard096_2",
+        "sounds": [{ "name": "s58:guard096_2", "stream": true}]
+    },
+    
+    "guard096":
+    {
+        "catagory": "master",
+        "subtitle": "guard096",
+        "sounds": [{ "name": "s58:guard096", "stream": true}]
+    },
+    
+    "intro1":
+    {
+        "catagory": "master",
+        "subtitle": "intro1",
+        "sounds": [{ "name": "s58:intro1", "stream": true}]
+    },
+    
+    "intro2":
+    {
+        "catagory": "master",
+        "subtitle": "intro2",
+        "sounds": [{ "name": "s58:intro2", "stream": true}]
+    },
+    
+    "intro3":
+    {
+        "catagory": "master",
+        "subtitle": "intro3",
+        "sounds": [{ "name": "s58:intro3", "stream": true}]
+    },
+    
+    "kclass":
+    {
+        "catagory": "master",
+        "subtitle": "kclass",
+        "sounds": [{ "name": "s58:kclass", "stream": true}]
+    },
+    
+    "ketersiren":
+    {
+        "catagory": "master",
+        "subtitle": "ketersiren",
+        "sounds": [{ "name": "s58:ketersiren", "stream": true}]
+    },
+    
+    "mandeville":
+    {
+        "catagory": "record",
+        "subtitle": "mandeville",
+        "sounds": [{ "name": "s58:mandeville", "stream": true}]
+    },
+    
+    "medusa":
+    {
+        "catagory": "record",
+        "subtitle": "medusa",
+        "sounds": [{ "name": "s58:medusa", "stream": true}]
+    },
+    
+    "melancholy":
+    {
+        "catagory": "record",
+        "subtitle": "melancholy",
+        "sounds": [{ "name": "s58:melancholy", "stream": true}]
+    },
+    
+    "nukecancelled":
+    {
+        "catagory": "master",
+        "subtitle": "nukecancelled",
+        "sounds": [{ "name": "s58:nukecancelled", "stream": true}]
+    },
+    
+    "nukesiren":
+    {
+        "catagory": "master",
+        "subtitle": "nukesiren",
+        "sounds": [{ "name": "s58:nukesiren", "stream": true}]
+    },
+      
+    "scp1048b":
+    {
+        "catagory": "master",
+        "subtitle": "scp1048b",
+        "sounds": [{ "name": "s58:scp1048b", "stream": true}]
+    },
+    
+    "scp1048bgrowth":
+    {
+        "catagory": "master",
+        "subtitle": "scp1048bgrowth",
+        "sounds": [{ "name": "s58:scp1048bgrowth", "stream": true}]
+    },
+    
+    "scpmaintheme":
+    {
+        "catagory": "record",
+        "subtitle": "scpmaintheme",
+        "sounds": [{ "name": "s58:scpmaintheme", "stream": true}]
+    },
+      
+     "scpradio":
+    {
+        "catagory": "record",
+        "subtitle": "scpradio",
+        "sounds": [{ "name": "s58:scpradio", "stream": true}]
+    },      
+      
+    "scripted1":
+    {
+        "catagory": "master",
+        "subtitle": "scripted1",
+        "sounds": [{ "name": "s58:scripted1", "stream": true}]
+    },
+    
+    "scripted2":
+    {
+        "catagory": "master",
+        "subtitle": "scripted2",
+        "sounds": [{ "name": "s58:scripted2", "stream": true}]
+    },
+    
+    "scripted3":
+    {
+        "catagory": "master",
+        "subtitle": "scripted3",
+        "sounds": [{ "name": "s58:scripted3", "stream": true}]
+    },
+    
+    "scripted4":
+    {
+        "catagory": "master",
+        "subtitle": "scripted4",
+        "sounds": [{ "name": "s58:scripted4", "stream": true}]
+    },
+    
+    "scripted5":
+    {
+        "catagory": "master",
+        "subtitle": "scripted5",
+        "sounds": [{ "name": "s58:scripted5", "stream": true}]
+    },
+    
+    "scripted6":
+    {
+        "catagory": "master",
+        "subtitle": "scripted6",
+        "sounds": [{ "name": "s58:scripted6", "stream": true}]
+    },
+    
+    "static079":
+    {
+        "catagory": "master",
+        "subtitle": "static079",
+        "sounds": [{ "name": "s58:static079", "stream": true}]
+    },
+    
+     "airlock":
+    {
+        "catagory": "master",
+        "subtitle": "airlock",
+        "sounds": [{ "name": "s58:airlock", "stream": true}]
+    },
+    
+    "generatoron":
+    {
+        "catagory": "master",
+        "subtitle": "generatoron",
+        "sounds": [{ "name": "s58:generatoron", "stream": true}]
+    },
+    
+    "alarm4":
+    {
+        "catagory": "master",
+        "subtitle": "alarm4",
+        "sounds": [{ "name": "s58:alarm4", "stream": true}]
+    },
+    
+    "alarm5":
+    {
+        "catagory": "master",
+        "subtitle": "alarm5",
+        "sounds": [{ "name": "s58:alarm5", "stream": true}]
+    },
+    
+     "fan":
+    {
+        "catagory": "master",
+        "subtitle": "fan",
+        "sounds": [{ "name": "s58:fan", "stream": true}]
+    },
+    
+    "fanoff":
+    {
+        "catagory": "master",
+        "subtitle": "fanoff",
+        "sounds": [{ "name": "s58:fanoff", "stream": true}]
+    },
+    
+    "fanon":
+    {
+        "catagory": "master",
+        "subtitle": "fanon",
+        "sounds": [{ "name": "s58:fanon", "stream": true}]
+    }
+}

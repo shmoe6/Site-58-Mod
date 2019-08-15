@@ -1,0 +1,74 @@
+Symbol range map extraction starting
+Processing 24 files
+startProcessing "shmoe6\s58\blocks\BlockBase.java" md5: 528372d969c19e05db1602bca085bc10
+endProcessing "shmoe6\s58\blocks\BlockBase.java"
+
+startProcessing "shmoe6\s58\blocks\BlockSCPButton.java" md5: c749e5124a372059dce2ad324e918b63
+endProcessing "shmoe6\s58\blocks\BlockSCPButton.java"
+
+startProcessing "shmoe6\s58\blocks\BlockSCPLever.java" md5: 6867bb866c2520dea6257f5057959470
+endProcessing "shmoe6\s58\blocks\BlockSCPLever.java"
+
+startProcessing "shmoe6\s58\blocks\BlockTesla.java" md5: fbc4c4453afb9c3c4207781bc6d20f09
+endProcessing "shmoe6\s58\blocks\BlockTesla.java"
+
+startProcessing "shmoe6\s58\entity\EntitySCP035.java" md5: d70a378eecdbcea27403e13f598ddb8d
+endProcessing "shmoe6\s58\entity\EntitySCP035.java"
+
+startProcessing "shmoe6\s58\entity\model\ModelSCP035.java" md5: 36bd208682a1aa6144c9b0b094821edd
+endProcessing "shmoe6\s58\entity\model\ModelSCP035.java"
+
+startProcessing "shmoe6\s58\entity\render\RenderSCP035.java" md5: 74ba4378e7e8e39be86707c3704bc4be
+endProcessing "shmoe6\s58\entity\render\RenderSCP035.java"
+
+startProcessing "shmoe6\s58\init\ModBlocks.java" md5: 537ed66ab595882ad2121d64e498f8d3
+endProcessing "shmoe6\s58\init\ModBlocks.java"
+
+startProcessing "shmoe6\s58\init\ModEntities.java" md5: c1745b8ef0fc640df66384151989752f
+endProcessing "shmoe6\s58\init\ModEntities.java"
+
+startProcessing "shmoe6\s58\init\ModItems.java" md5: 9a5a9331eb11736c452fec9f2a8aede3
+endProcessing "shmoe6\s58\init\ModItems.java"
+
+startProcessing "shmoe6\s58\init\ModPotions.java" md5: e6a26fc35df8e91daedae7e348d4071b
+endProcessing "shmoe6\s58\init\ModPotions.java"
+
+startProcessing "shmoe6\s58\items\ItemBase.java" md5: 235abc3877e70af27565177785c78c23
+endProcessing "shmoe6\s58\items\ItemBase.java"
+
+startProcessing "shmoe6\s58\items\ItemHidden.java" md5: 3ba86c86004d9ede92c86e0461bff6ad
+endProcessing "shmoe6\s58\items\ItemHidden.java"
+
+startProcessing "shmoe6\s58\main.java" md5: 84a28ce5a1414f4a20742396a659ebf6
+endProcessing "shmoe6\s58\main.java"
+
+startProcessing "shmoe6\s58\potions\CustomPotion.java" md5: d5cb95c88d3af2efa9381d4ef9494cc1
+endProcessing "shmoe6\s58\potions\CustomPotion.java"
+
+startProcessing "shmoe6\s58\proxy\ClientProxy.java" md5: ef28b2e7543b2f4466e24c1d2f2bca68
+endProcessing "shmoe6\s58\proxy\ClientProxy.java"
+
+startProcessing "shmoe6\s58\proxy\CommonProxy.java" md5: f0f0a316982d8fa6f5ddd09832f78f05
+endProcessing "shmoe6\s58\proxy\CommonProxy.java"
+
+startProcessing "shmoe6\s58\tabs\Site58Tab.java" md5: ab9fc70bf65c4a13d8919f94e3ece696
+endProcessing "shmoe6\s58\tabs\Site58Tab.java"
+
+startProcessing "shmoe6\s58\util\IHasModel.java" md5: e42d50f5704f9f2b0c06ece08a8ac396
+endProcessing "shmoe6\s58\util\IHasModel.java"
+
+startProcessing "shmoe6\s58\util\Reference.java" md5: 136ac36d26b434569eb9be57425d0986
+endProcessing "shmoe6\s58\util\Reference.java"
+
+startProcessing "shmoe6\s58\util\SoundEvent.java" md5: 966d3c8d220a89d944bc18606aa84791
+endProcessing "shmoe6\s58\util\SoundEvent.java"
+
+startProcessing "shmoe6\s58\util\handlers\RegistryHandler.java" md5: e1c800e364ef990c41ccac39e3d445ea
+endProcessing "shmoe6\s58\util\handlers\RegistryHandler.java"
+
+startProcessing "shmoe6\s58\util\handlers\RenderHandler.java" md5: 2361f2b9891f154c98468bf307cae4e1
+endProcessing "shmoe6\s58\util\handlers\RenderHandler.java"
+
+startProcessing "shmoe6\s58\util\handlers\SoundsHandler.java" md5: b8a61679a251a73dbb63642dad601072
+endProcessing "shmoe6\s58\util\handlers\SoundsHandler.java"
+

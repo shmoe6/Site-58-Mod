@@ -46,6 +46,17 @@ public class ModBlocks
 	public static final Block GRAY_OFFICE_BOTTOM = new BlockBase("gray_office_bottom", Material.IRON);
 	public static final Block BLACK_OFFICE_BOTTOM = new BlockBase("black_office_bottom", Material.IRON);
 	
+	//WC
+	public static final Block WC_BLOCK = new BlockBase("wc_block", Material.IRON);
+	public static final Block MALE_WC_BLOCK = new BlockBase("male_wc_block", Material.IRON);
+	public static final Block FEMALE_WC_BLOCK = new BlockBase("female_wc_block", Material.IRON);
+	
+	//GOI BLOCKS
+	public static final Block SH_BLOCK = new BlockBase("sh_block", Material.IRON);
+	public static final Block CI_BLOCK = new BlockBase("ci_block", Material.IRON);
+	
+	
+	
 //	public static final Block SCPLEVER = new BlockSCPLever("scp_lever");
 	
 	public static final Block TESLA_GATE = new BlockTesla("tesla_gate", Material.CLOTH);

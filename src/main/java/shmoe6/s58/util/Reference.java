@@ -12,4 +12,5 @@ public class Reference {
   public static final String COMMON = "shmoe6.s58.proxy.CommonProxy";
   
   public static final int ENTITY_SCP035 = 35;
+  
 }

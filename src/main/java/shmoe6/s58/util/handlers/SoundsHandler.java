@@ -62,6 +62,13 @@ public class SoundsHandler {
     private SoundEvent MEDUSA;
     private SoundEvent GOLGOTHA;
     private SoundEvent SCPRADIO;
+    private SoundEvent AIRLOCK;
+    private SoundEvent GENERATORON;
+    private SoundEvent ALARM4;
+    private SoundEvent ALARM5;
+    private SoundEvent FAN;
+    private SoundEvent FANOFF;
+    private SoundEvent FANON;
     
     public SoundsHandler()  {
     instance = this;
@@ -120,6 +127,13 @@ public class SoundsHandler {
         MEDUSA = registerSound("medusa");
         GOLGOTHA = registerSound("golgotha");
         SCPRADIO = registerSound("scpradio");
+        AIRLOCK = registerSound("airlock");
+        GENERATORON = registerSound("generatoron");
+        ALARM4 = registerSound("alarm4");
+        ALARM5 = registerSound("alarm5");
+        FAN = registerSound("fan");
+        FANOFF = registerSound("fanoff");
+        FANON = registerSound("fanon");
         
     }
     	private SoundEvent registerSound(String name) {

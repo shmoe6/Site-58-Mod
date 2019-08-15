@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "s58:blocks/tesla_gate"
+   }
+}

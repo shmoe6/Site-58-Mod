@@ -59,7 +59,7 @@ public class RegistryHandler
   
   		public static void preInitRegistries()
   		{
-  			ModEntities.registerEntities();
+  			ModEntities.RegisterEntities();
   			RenderHandler.registerEntityRenderers();
   		}
 	  

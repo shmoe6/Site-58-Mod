@@ -8,11 +8,11 @@ import shmoe6.s58.main;
 import shmoe6.s58.entity.EntitySCP035;
 import shmoe6.s58.util.Reference;
 
-public class ModEntities 
+public class ModEntities
 {
-	public static void registerEntities() 
+	public static void RegisterEntities()
 	{
-		registerEntity("scp035", EntitySCP035.class, Reference.ENTITY_SCP035, 10, 255219179, 255255255);
+		registerEntity("scp035", EntitySCP035.class, Reference.ENTITY_SCP035, 50, 3093151, 11350687);
 	}
 	
 	private static void registerEntity(String name, Class<? extends Entity> entity, int id, int range, int color1, int color2)

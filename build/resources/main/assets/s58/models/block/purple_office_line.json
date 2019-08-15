@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+        "particle": "s58:blocks/wall",
+        "up": "s58:blocks/wall",
+        "down": "s58:blocks/wall",
+        "north": "s58:blocks/purple_office_line",
+        "east": "s58:blocks/purple_office_line",
+        "south": "s58:blocks/purple_office_line",
+        "west": "s58:blocks/purple_office_line"
+   }
+}

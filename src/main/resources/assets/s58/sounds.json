@@ -389,5 +389,54 @@
         "catagory": "master",
         "subtitle": "static079",
         "sounds": [{ "name": "s58:static079", "stream": true}]
+    },
+    
+     "airlock":
+    {
+        "catagory": "master",
+        "subtitle": "airlock",
+        "sounds": [{ "name": "s58:airlock", "stream": true}]
+    },
+    
+    "generatoron":
+    {
+        "catagory": "master",
+        "subtitle": "generatoron",
+        "sounds": [{ "name": "s58:generatoron", "stream": true}]
+    },
+    
+    "alarm4":
+    {
+        "catagory": "master",
+        "subtitle": "alarm4",
+        "sounds": [{ "name": "s58:alarm4", "stream": true}]
+    },
+    
+    "alarm5":
+    {
+        "catagory": "master",
+        "subtitle": "alarm5",
+        "sounds": [{ "name": "s58:alarm5", "stream": true}]
+    },
+    
+     "fan":
+    {
+        "catagory": "master",
+        "subtitle": "fan",
+        "sounds": [{ "name": "s58:fan", "stream": true}]
+    },
+    
+    "fanoff":
+    {
+        "catagory": "master",
+        "subtitle": "fanoff",
+        "sounds": [{ "name": "s58:fanoff", "stream": true}]
+    },
+    
+    "fanon":
+    {
+        "catagory": "master",
+        "subtitle": "fanon",
+        "sounds": [{ "name": "s58:fanon", "stream": true}]
     }
 }
