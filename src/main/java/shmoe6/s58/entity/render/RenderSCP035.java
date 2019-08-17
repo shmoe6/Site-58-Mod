@@ -9,7 +9,7 @@ import shmoe6.s58.util.Reference;
 
 public class RenderSCP035 extends RenderLiving<EntitySCP035>
 {
-	public static final ResourceLocation TEXTURES = new ResourceLocation(Reference.MODID + ":textures/entity/SCP035.png");
+	public final ResourceLocation TEXTURES = new ResourceLocation(Reference.MODID, "textures/entity/scp035.png");
 	
 	public RenderSCP035(RenderManager manager)
 	{

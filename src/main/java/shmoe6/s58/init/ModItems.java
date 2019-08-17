@@ -9,9 +9,14 @@ import shmoe6.s58.items.ItemHidden;
 
 public class ModItems 
 {
+	public static ModItems instance;
+	public final List<Item> ITEMS = new ArrayList<Item>();
 	
-	public static final List<Item> ITEMS = new ArrayList<Item>();
-	
-	public static final Item SCPLOGO = new ItemHidden("scplogo");
+	public Item SCPLOGO;
 //	public static final Item TEST = new ItemBase("test");
+	
+	public ModItems() {
+		instance = this;
+		SCPLOGO = new ItemHidden("scplogo");
+	}
 }

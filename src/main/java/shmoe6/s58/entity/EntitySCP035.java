@@ -2,6 +2,7 @@ package shmoe6.s58.entity;
 
 import net.minecraft.entity.EntityAgeable;
 import net.minecraft.entity.monster.EntityPigZombie;
+import net.minecraft.network.datasync.EntityDataManager;
 import net.minecraft.util.DamageSource;
 import net.minecraft.util.SoundEvent;
 import net.minecraft.world.World;
@@ -36,5 +37,4 @@ public class EntitySCP035 extends EntityPigZombie
 	{
 		return super.getDeathSound();
 	}
-
 }

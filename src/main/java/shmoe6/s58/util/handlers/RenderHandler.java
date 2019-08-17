@@ -9,7 +9,7 @@ import shmoe6.s58.entity.render.RenderSCP035;
 
 public class RenderHandler 
 {
-	public static void registerEntityRenderers()
+	public RenderHandler()
 	{
 		RenderingRegistry.registerEntityRenderingHandler(EntitySCP035.class, new IRenderFactory<EntitySCP035>()
 		{

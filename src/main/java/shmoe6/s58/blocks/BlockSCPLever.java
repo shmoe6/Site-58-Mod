@@ -27,7 +27,7 @@ import net.minecraft.util.math.AxisAlignedBB;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.IBlockAccess;
 import net.minecraft.world.World;
-import shmoe6.s58.main;
+import shmoe6.s58.Main;
 import shmoe6.s58.init.ModBlocks;
 import shmoe6.s58.init.ModItems;
 import shmoe6.s58.util.IHasModel;

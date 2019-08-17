@@ -2,7 +2,7 @@ package shmoe6.s58.items;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import shmoe6.s58.main;
+import shmoe6.s58.Main;
 import shmoe6.s58.init.ModItems;
 import shmoe6.s58.util.IHasModel;
 
@@ -12,15 +12,15 @@ public class ItemBase extends Item implements IHasModel
 	{
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(main.site58tab);
+		setCreativeTab(Main.site58tab);
 		
-		ModItems.ITEMS.add(this);
+		ModItems.instance.ITEMS.add(this);
 	}
 	
 	@Override
 	public void registerModels() 
 	{
-		main.proxy.registerItemRenderer(this, 0, "inventory");
+		Main.proxy.registerItemRenderer(this, 0, "inventory");
 	}
 	
 }

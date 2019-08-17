@@ -13,7 +13,7 @@ import net.minecraft.util.DamageSource;
 import net.minecraft.util.math.AxisAlignedBB;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-import shmoe6.s58.main;
+import shmoe6.s58.Main;
 import shmoe6.s58.init.ModBlocks;
 import shmoe6.s58.init.ModItems;
 import shmoe6.s58.util.IHasModel;
@@ -25,19 +25,19 @@ public class BlockTesla extends Block implements IHasModel
 		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(main.site58tab);
+		setCreativeTab(Main.site58tab);
 		setHardness(4.0F);
 		setLightLevel(10.0F);
 		setLightOpacity(1);
 		
-		ModBlocks.BLOCKS.add(this);
-		ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
+		ModBlocks.instance.BLOCKS.add(this);
+		ModItems.instance.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
 	}
 
 	@Override
 	public void registerModels()
 	{
-		main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "inventory");
+		Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "inventory");
 	}
     
 	public void onEntityCollidedWithBlock(World worldIn, BlockPos pos, IBlockState state, Entity entityIn)

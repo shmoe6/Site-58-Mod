@@ -11,7 +11,7 @@ public class Site58Tab extends CreativeTabs
 /*	this.setBackgroundImageName("example.png"); */}
 	public ItemStack getTabIconItem() 
 	{ 
-		return new ItemStack(ModItems.SCPLOGO);
+		return new ItemStack(ModItems.instance.SCPLOGO);
 	}
 	
 }
